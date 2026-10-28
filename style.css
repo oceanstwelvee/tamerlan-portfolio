@@ -231,7 +231,7 @@ html[lang="ka"] h2 { letter-spacing: 0; line-height: 1.2; }
 .card.more p { color: var(--muted); font-size: 14px; }
 
 /* ---------- services ---------- */
-.services { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 40px; counter-reset: s; }
+.services { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 40px; counter-reset: s; }
 .service {
   position: relative; padding: 28px; border-radius: var(--radius); border: 1px solid var(--line);
   background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.015));
